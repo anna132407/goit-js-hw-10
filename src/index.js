@@ -75,7 +75,7 @@ function showCountryList(country) {
                     class="flag-svg"
                     src="${item.flags.svg}"
                     alt="flag"
-                    width=100
+                    width=50
                 />
                 <p class="country-name">${item.name}</p>
             </li>`
